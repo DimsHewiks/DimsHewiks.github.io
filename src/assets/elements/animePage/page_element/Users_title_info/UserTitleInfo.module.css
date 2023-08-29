@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+
+
+
+
+.Item{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+.ChildItem{
+    width: 65%;
+    height: 100%;
+
+    display: flex;
+    justify-content: flex-start;
+}
+.Button{
+    width: 25%;
+    height: 100%;
+    padding-left: 20px;
+}
+.Info{
+    width: 70%;
+    height: 100%;
+
+    display: flex;
+
+}
+.Form{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.Form > select{
+    width: 90%;
+    height: 30px;
+    font-family: 'Inter', sans-serif;
+    font-size: 11pt;
+    border-radius: 0;
+    background: none;
+    outline: none;
+    color: #f0925b;
+}
+.Form > select > option{
+    border-radius: 10px;
+}
+.Form > label{
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 10pt;
+
+}
+.info_Users{
+    width: 18%;
+    height: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 15px;
+}
+.name > p{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 10pt;
+}
+.rating > p{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 16pt;
+    margin: 5px;
+}
