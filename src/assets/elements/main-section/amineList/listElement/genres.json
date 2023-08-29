@@ -3,175 +3,175 @@
         "name": "Детектив",
         "link": "mystery/",
         "text": "",
-        "img": "",
+        "img": "../det.jpg",
         "color": "rgb(97, 57, 116)"
     },
     {
         "name": "Драма",
         "link": "drama/",
         "text": "",
-        "img": "",
+        "img": "../drama.jpg",
         "color": "rgb(43, 24, 120)"
     },
     {
         "name": "История",
         "link": "historical/",
         "text": "",
-        "img": "",
+        "img": "../history.jpg",
         "color": "rgb(93, 68, 31)"
     },
     {
         "name": "Комедия",
         "link": "comedy/",
         "text": "",
-        "img": "",
+        "img": "../comedy.jpg",
         "color": "rgb(39, 117, 128)"
     },
     {
         "name": "Приключения",
         "link": "adventure/",
         "text": "",
-        "img": "",
+        "img": "../prikl.jpg",
         "color": "rgb(39, 39, 128)"
     },
     {
         "name": "Игра",
         "link": "game/",
         "text": "",
-        "img": "",
+        "img": "../game.jpg",
         "color": "rgb(128, 39, 67)"
     },
     {
         "name": "Спорт",
         "link": "sport/",
         "text": "",
-        "img": "",
+        "img": "../sport.jpg",
         "color": "rgb(41, 97, 40)"
     },
     {
         "name": "Триллер",
         "link": "thriller/",
         "text": "",
-        "img": "",
+        "img": "../triller.jpg",
         "color": "rgb(107, 45, 38)"
     },
     {
         "name": "Хоррор",
         "link": "horror/",
         "text": "",
-        "img": "",
+        "img": "../horror.jpg",
         "color": "rgb(167, 57, 44)"
     },
     {
         "name": "Фантастика",
         "link": "sci-fi/",
         "text": "",
-        "img": "",
+        "img": "../sci-fi.jpg",
         "color": "rgb(96, 33, 124)"
     },
     {
         "name": "Фэнтези",
         "link": "fantasy/",
         "text": "",
-        "img": "",
+        "img": "../fantasy.jpg",
         "color": "rgb(33, 68, 124)"
     },
     {
         "name": "Военное",
         "link": "military/",
         "text": "",
-        "img": "",
+        "img": "../military.jpg",
         "color": "rgb(33, 124, 80)"
     },
     {
         "name": "Экшен",
         "link": "action/",
         "text": "",
-        "img": "",
+        "img": "../action.jpg",
         "color": "rgb(129, 150, 42)"
     },
     {
         "name": "Этти",
         "link": "ecchi/",
         "text": "",
-        "img": "",
+        "img": "../ecchi.jpg",
         "color": "rgb(150, 42, 114)"
     },
     {
         "name": "Школа",
         "link": "school/",
         "text": "",
-        "img": "",
+        "img": "../school.jpg",
         "color": "rgb(42, 89, 150)"
     },
     {
         "name": "Безумие",
         "link": "dementia/",
         "text": "",
-        "img": "",
+        "img": "../dementia.jpg",
         "color": "rgb(213, 36, 16)"
     },
     {
         "name": "Боевые искусства",
         "link": "martial-arts/",
         "text": "",
-        "img": "",
+        "img": "../martial-arts.jpg",
         "color": "rgb(203, 135, 67)"
     },
     {
         "name": "Вампиры",
         "link": "vampire/",
         "text": "",
-        "img": "",
+        "img": "../vampire.jpg",
         "color": "rgb(175, 61, 61)"
     },
     {
         "name": "Гарем",
         "link": "harem/",
         "text": "",
-        "img": "",
+        "img": "../harem.jpg",
         "color": "rgb(122, 42, 136)"
     },
     {
         "name": "Демоны",
         "link": "demons/",
         "text": "",
-        "img": "",
+        "img": "../demons.jpg",
         "color": "rgb(136, 75, 42)"
     },
     {
         "name": "Детское",
         "link": "kids/",
         "text": "",
-        "img": "",
+        "img": "../kids.jpg",
         "color": "rgb(60, 164, 39)"
     },
     {
         "name": "Космос",
-        "link": "space",
+        "link": "space/",
         "text": "",
-        "img": "",
+        "img": "../space.jpg",
         "color": "rgb(59, 50, 81)"
     },
     {
         "name": "Магия",
         "link": "magic/",
         "text": "",
-        "img": "",
+        "img": "../magic.jpg",
         "color": "rgb(23, 71, 67)"
     },
     {
         "name": "Машины",
         "link": "cars/",
         "text": "",
-        "img": "",
+        "img": "../cars.jpg",
         "color": "rgb(49, 81, 109)"
     },
     {
         "name": "Меха",
         "link": "mecha/",
         "text": "",
-        "img": "",
+        "img": "../mecha.jpg",
         "color": "rgb(101, 101, 101)"
     },
     {

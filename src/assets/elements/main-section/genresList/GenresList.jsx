@@ -14,7 +14,7 @@ function GenresList({BGthemes, BGthemesEl, BGthemesElText}){
                 <div className={styles.CaruselWindow}>
 
                     {GenresBD.map(genres =>(
-                        <div className={styles.CaruselItem} style={{backgroundImage: `url(./c-3.jpg)`}}>
+                        <div className={styles.CaruselItem} style={{backgroundImage: `url(${genres.img})`}}>
                             <div className={styles.CaruselItemDark} style={{backgroundColor:`${genres.color}`}}></div>
                             <h2>{genres.name}</h2>
                         </div>
