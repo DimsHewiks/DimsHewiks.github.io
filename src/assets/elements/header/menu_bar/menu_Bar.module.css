@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+
+
+.Item{
+    width: 100%;
+    height: 100%;
+    background-color: #3d3d3d;
+    display: flex;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}   .Title__Block{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 20%;
+        color: rgb(253, 167, 117);
+        font-family: 'Inter', sans-serif;
+    } .Title__Block > h3{
+
+          }
+    .formReg{
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        flex-direction: column;
+        width: 100%;
+        height: 80%;
+
+
+
+    }     .formReg > .InputText{
+            width: 80%;
+            height: 25px;
+            margin-bottom: 10px;
+            outline: none;
+            padding-left: 5px;
+
+    background-color: #191919;
+    border: none;
+    border-radius: 5px;
+    color: white;
+          }.InputButton__Log{
+                width: 70%;
+                height: 35px;
+    cursor: pointer;
+    background-color: rgb(253, 167, 117);
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-top: 20px;
+
+                         }
+.LogIn__Link{
+    text-decoration: none;
+    color: #f0925b;
+    font-family: 'Inter', sans-serif;
+    font-size: 9pt;
+    margin-top: 10px;
+}
+
+

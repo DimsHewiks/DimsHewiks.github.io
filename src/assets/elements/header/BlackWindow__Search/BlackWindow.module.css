@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+
+.BlackWindow__Search{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    z-index: 99999;
+    opacity: .95;
+}
+.item{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.ButtonExit{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: flex-start;
+    cursor: pointer;
+}.ButtonExit > div{
+    width: 60px;
+    height: 60px;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-image: url("../ExitIcon.png");
+    background-repeat: no-repeat;
+    background-position: center;
+
+ }
+.MainSearch{
+    width: 100%;
+    height: 50px;
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}.MainSearch > input{
+     width: 800px;
+    height: 30px;
+    outline: none;
+    border: none;
+    background-color: black;
+    border-bottom: solid #f0925b;
+    color: white;
+    font-size: 15pt;
+ }.Kolvo{
+    width: 800px;
+    height: 20px;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 9pt;
+   }
+.BlackWindow__Content{
+    width: 100%;
+    height: 800px;
+    margin-top: 50px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 30px;
+    overflow-y: scroll;
+
+}.BlackWindow__Content > a{
+    text-decoration: none;
+ }
+.Content_Card{
+    width: 200px;
+    height: 280px;
+    margin: 20px 30px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #191919;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+
+}
+.raiting{
+
+    width: 100%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.raiting > div{
+    width: 40px;
+    height: 25px;
+    background-color: #f0925b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 3px;
+    border-radius: 3px;
+}.raiting > div > p{
+    color: white;
+     text-decoration: none;
+     font-family: 'Inter', sans-serif;
+    font-size: 11pt;
+ }
+.Card__Content{
+    width: 100%;
+    height: 120px;
+    background: rgb(240,146,91);
+    background: linear-gradient(0deg, rgba(240,146,91,1) 0%, rgba(240,146,91,0.46262254901960786) 79%, rgba(0,212,255,0) 100%);
+
+}
+.Card__Name{
+
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+
+}.Card__Name > h3{
+    color: white;
+     font-family: 'Inter', sans-serif;
+    font-size: 12pt;
+ }
